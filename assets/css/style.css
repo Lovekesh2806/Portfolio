@@ -1445,7 +1445,7 @@ button:hover .shopping_bag {
 }
 
 .subject {
-    color: var(--card-text);
+    color: #0dcaf0;
     text-align: center;
     font-size: 18px;
     line-height: 24px;

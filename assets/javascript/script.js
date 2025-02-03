@@ -10,8 +10,8 @@ document.getElementsByClassName("lokesh_moswa")[0];
 // lokesh moswa text end
 
 // designer text
-firstText = "Designer";
-secondText = "Developer";
+firstText = "Java Full Stack Developer";
+secondText = "Frontend Developer";
 // thridText = "Freelancer"
 intervalTime = 600;
 window.load = displayText();
